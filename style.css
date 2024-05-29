@@ -3,6 +3,7 @@ div {
     background-color: aquamarine;
     color: rgb(26, 29, 26);
     font-size: 48px;
-    margin: auto;
+    text-align: center;
+    border: 5px color hsl(278, 100%, 50%);
 }
 
