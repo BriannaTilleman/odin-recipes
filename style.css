@@ -1,9 +1,22 @@
-div {
+.Odin {
     font-weight: bold;
-    background-color: aquamarine;
-    color: rgb(26, 29, 26);
-    font-size: 48px;
+    background-color: black;
+    color: rgb(255, 255, 255)
+    font-size: 48px
     text-align: center;
     border: 5px color hsl(278, 100%, 50%);
+}
+
+div {
+    margin-block: 20px;
+    text-align: center
+}
+
+.first {
+    background-color: green;
+}
+
+.second {
+    
 }
 
