@@ -1,22 +1,26 @@
 .Odin {
     font-weight: bold;
     background-color: black;
-    color: rgb(255, 255, 255)
-    font-size: 48px
+    color: rgba(255, 255, 255, 0.966);
+    font-size: 48px;
     text-align: center;
-    border: 5px color hsl(278, 100%, 50%);
 }
 
 div {
-    margin-block: 20px;
-    text-align: center
+    border: 5px solid #000;
+    border-radius: 10px;
+    width: auto;
+    height: auto; 
+    text-align: center; 
 }
 
-.first {
+.first.second {
     background-color: green;
 }
 
 .second {
-    
+    background-color: palegreen;
 }
+
+
 
